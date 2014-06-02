@@ -49,8 +49,7 @@ USING THE PROGRAM:
 After excecuting the program, youu will need to enter you function in this structure:
 <FUNCTION>, <FROM>, <TO>
 the function need to be entered like this:
-x^1 or x for normal xFile: /home/itamar/Documents/OS-ex2...1/‫הגשה‬/ex2-itamarsh/README.txt
-Page 2 of 2
+x^1 or x for normal x
 x^2,x^3...
 and not 3x^2
 between all variables need to be only plus ('+') and not minus.
