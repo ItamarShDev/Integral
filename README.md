@@ -20,21 +20,35 @@ this program gets from the user the polynomal function and its limits, sends it 
 shared memory co caculate
 then prints the answer on screen.
 it will continue to get integrals untill the user will enter either "quit" or "exit".
+
+
 **
+
+
 Program 2: <files ex21,ex22>
 --using client-server Sockets method to calculate--
 this program get from user the polynomal function and its limits, sends it to the server using sockets.
 The server then calculate the integral and print the answer on screen.
 the client will keep sending the input untill the user will enter wither "quit" or "exit".
+
+
 ******************************************
 HOW TO:
 ******************************************
 this program supplied with an advance Makefile.
+
+
 **
+
+
 COMPILE:
 -cd to the files' folder in terminal
 -enter "make"
+
+
 **
+
+
 RUN THE PROGRAM:
 -cd to the files' folder in terminal
 options:
@@ -46,7 +60,11 @@ typing "make first" ot "make second"
 wil run automatically the first file on the method in the terminal
 then will open another terminal for the user to open the second file.
 The name of the file that the user need to open will be written in the terminal.
+
+
 **
+
+
 USING THE PROGRAM:
 After excecuting the program, youu will need to enter you function in this structure:
 <FUNCTION>, <FROM>, <TO>
@@ -55,6 +73,10 @@ x^1 or x for normal x
 x^2,x^3...
 and not 3x^2
 between all variables need to be only plus ('+') and not minus.
+
+
 **
+
+
 AFTER USE:
 after you done please type "make clean" to delete all tamporary files created and leave only the *.c files
