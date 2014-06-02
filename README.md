@@ -4,7 +4,7 @@ Integral
 Reimann's Integral Calculator
 
 *****************************************
-Description:
+DESCREPTION:
 *****************************************
 This program demonstrate the Reimann's method of Integral calculation of polynomal functions (see the
 bootom of the file for an explanation)
@@ -12,6 +12,8 @@ It uses two main programming methods:
 - Shared memory in combine with signals
 - Sockets in client-server comunication
 **
+
+
 Program 1: <files ex12,ex11>
 --Using Shared memory to calculate--
 this program gets from the user the polynomal function and its limits, sends it to other file through the
